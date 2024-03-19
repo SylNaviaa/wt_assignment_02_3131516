@@ -1,0 +1,53 @@
+[Tue Mar 12 13:07:23.546390 2024] [mpm_winnt:notice] [pid 7388:tid 824] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Mar 12 13:07:23.546390 2024] [mpm_winnt:notice] [pid 7388:tid 824] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Mar 12 13:07:23.546390 2024] [core:notice] [pid 7388:tid 824] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Tue Mar 12 13:07:23.660875 2024] [mpm_winnt:notice] [pid 7388:tid 824] AH00418: Parent: Created child process 9656
+[Tue Mar 12 13:07:24.632989 2024] [mpm_winnt:notice] [pid 9656:tid 820] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 14 16:15:02.052135 2024] [core:warn] [pid 20396:tid 736] AH00098: pid file C:/Users/hizok/AppData/Roaming/Local/run/w-IYLmAqc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 14 16:15:02.057140 2024] [mpm_winnt:notice] [pid 20396:tid 736] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Mar 14 16:15:02.057140 2024] [mpm_winnt:notice] [pid 20396:tid 736] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Mar 14 16:15:02.057140 2024] [core:notice] [pid 20396:tid 736] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Thu Mar 14 16:15:02.060646 2024] [mpm_winnt:notice] [pid 20396:tid 736] AH00418: Parent: Created child process 15052
+[Thu Mar 14 16:15:04.395269 2024] [mpm_winnt:notice] [pid 15052:tid 844] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 14 16:18:05.135646 2024] [core:warn] [pid 8092:tid 788] AH00098: pid file C:/Users/hizok/AppData/Roaming/Local/run/w-IYLmAqc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 14 16:18:05.137644 2024] [mpm_winnt:notice] [pid 8092:tid 788] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Mar 14 16:18:05.137644 2024] [mpm_winnt:notice] [pid 8092:tid 788] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Mar 14 16:18:05.137644 2024] [core:notice] [pid 8092:tid 788] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Thu Mar 14 16:18:05.141657 2024] [mpm_winnt:notice] [pid 8092:tid 788] AH00418: Parent: Created child process 15420
+[Thu Mar 14 16:18:07.356767 2024] [mpm_winnt:notice] [pid 15420:tid 828] AH00354: Child: Starting 64 worker threads.
+[Thu Mar 14 16:32:26.915870 2024] [core:warn] [pid 5248:tid 752] AH00098: pid file C:/Users/hizok/AppData/Roaming/Local/run/w-IYLmAqc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 14 16:32:26.917869 2024] [mpm_winnt:notice] [pid 5248:tid 752] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Mar 14 16:32:26.917869 2024] [mpm_winnt:notice] [pid 5248:tid 752] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Mar 14 16:32:26.917869 2024] [core:notice] [pid 5248:tid 752] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Thu Mar 14 16:32:26.921874 2024] [mpm_winnt:notice] [pid 5248:tid 752] AH00418: Parent: Created child process 16448
+[Thu Mar 14 16:32:29.104878 2024] [mpm_winnt:notice] [pid 16448:tid 820] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 15 12:49:17.934673 2024] [core:warn] [pid 14616:tid 704] AH00098: pid file C:/Users/hizok/AppData/Roaming/Local/run/w-IYLmAqc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 15 12:49:17.938699 2024] [mpm_winnt:notice] [pid 14616:tid 704] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Fri Mar 15 12:49:17.938699 2024] [mpm_winnt:notice] [pid 14616:tid 704] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Mar 15 12:49:17.938699 2024] [core:notice] [pid 14616:tid 704] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Fri Mar 15 12:49:17.941741 2024] [mpm_winnt:notice] [pid 14616:tid 704] AH00418: Parent: Created child process 18796
+[Fri Mar 15 12:49:18.377388 2024] [mpm_winnt:notice] [pid 18796:tid 824] AH00354: Child: Starting 64 worker threads.
+[Fri Mar 15 13:19:37.396463 2024] [core:warn] [pid 7516:tid 736] AH00098: pid file C:/Users/hizok/AppData/Roaming/Local/run/w-IYLmAqc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 15 13:19:37.399465 2024] [mpm_winnt:notice] [pid 7516:tid 736] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Fri Mar 15 13:19:37.399465 2024] [mpm_winnt:notice] [pid 7516:tid 736] AH00456: Server built: Apr 21 2020 13:46:54
+[Fri Mar 15 13:19:37.399465 2024] [core:notice] [pid 7516:tid 736] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Fri Mar 15 13:19:37.402970 2024] [mpm_winnt:notice] [pid 7516:tid 736] AH00418: Parent: Created child process 18164
+[Fri Mar 15 13:19:37.868269 2024] [mpm_winnt:notice] [pid 18164:tid 816] AH00354: Child: Starting 64 worker threads.
+[Sat Mar 16 19:31:00.357352 2024] [core:warn] [pid 25732:tid 716] AH00098: pid file C:/Users/hizok/AppData/Roaming/Local/run/w-IYLmAqc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 16 19:31:00.360351 2024] [mpm_winnt:notice] [pid 25732:tid 716] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Mar 16 19:31:00.360351 2024] [mpm_winnt:notice] [pid 25732:tid 716] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Mar 16 19:31:00.360351 2024] [core:notice] [pid 25732:tid 716] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Sat Mar 16 19:31:00.365179 2024] [mpm_winnt:notice] [pid 25732:tid 716] AH00418: Parent: Created child process 12436
+[Sat Mar 16 19:31:00.792833 2024] [mpm_winnt:notice] [pid 12436:tid 820] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 18 18:29:22.004344 2024] [core:warn] [pid 10696:tid 712] AH00098: pid file C:/Users/hizok/AppData/Roaming/Local/run/w-IYLmAqc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 18 18:29:22.007172 2024] [mpm_winnt:notice] [pid 10696:tid 712] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Mar 18 18:29:22.007172 2024] [mpm_winnt:notice] [pid 10696:tid 712] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Mar 18 18:29:22.007172 2024] [core:notice] [pid 10696:tid 712] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Mon Mar 18 18:29:22.011413 2024] [mpm_winnt:notice] [pid 10696:tid 712] AH00418: Parent: Created child process 12568
+[Mon Mar 18 18:29:22.489222 2024] [mpm_winnt:notice] [pid 12568:tid 816] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 18 22:03:02.281792 2024] [core:warn] [pid 10844:tid 792] AH00098: pid file C:/Users/hizok/AppData/Roaming/Local/run/w-IYLmAqc/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 18 22:03:02.284308 2024] [mpm_winnt:notice] [pid 10844:tid 792] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Mar 18 22:03:02.284308 2024] [mpm_winnt:notice] [pid 10844:tid 792] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Mar 18 22:03:02.284308 2024] [core:notice] [pid 10844:tid 792] AH00094: Command line: 'C:\\Users\\hizok\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/hizok/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\hizok\\AppData\\Roaming\\Local\\run\\w-IYLmAqc\\conf\\apache\\apache2.conf'
+[Mon Mar 18 22:03:02.287821 2024] [mpm_winnt:notice] [pid 10844:tid 792] AH00418: Parent: Created child process 7516
+[Mon Mar 18 22:03:02.693291 2024] [mpm_winnt:notice] [pid 7516:tid 812] AH00354: Child: Starting 64 worker threads.
